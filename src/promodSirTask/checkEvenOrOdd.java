@@ -1,5 +1,7 @@
 package promodSirTask;
 
+import java.util.Scanner;
+
 public class checkEvenOrOdd {
     public void EvenOdd() {
         {
@@ -22,7 +24,7 @@ public class checkEvenOrOdd {
     }
 
     public static void main(String[] args) {
-        CheckEvenOdd obj = new CheckEvenOdd();
+        checkEvenOrOdd obj = new checkEvenOrOdd();
         obj.EvenOdd();
     }
 }
