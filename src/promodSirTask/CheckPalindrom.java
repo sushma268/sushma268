@@ -1,6 +1,6 @@
 package promodSirTask;
 
-public class dsd {
+public class CheckPalindrom  {
     public static void main(String[] args) {
     }
 }
